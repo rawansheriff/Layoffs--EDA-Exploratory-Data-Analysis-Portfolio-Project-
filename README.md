@@ -1,3 +1,5 @@
+![iStock-1435349842](https://github.com/user-attachments/assets/0491b5ae-f393-4390-8ac6-69f5ebdb21e0)
+
 # Exploring Layoffs Data (2020-2023) with MySQL
 
 Welcome to my **Layoffs Data Analysis Project**, where I dive deep into layoffs trends from 2020 to 2023 using MySQL! This project was inspired by the turbulent times many industries faced, and it’s all about uncovering key insights from global layoffs data. 🏢📉
