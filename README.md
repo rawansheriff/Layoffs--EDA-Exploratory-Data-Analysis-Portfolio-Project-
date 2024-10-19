@@ -1,4 +1,6 @@
-![iStock-1435349842](https://github.com/user-attachments/assets/0491b5ae-f393-4390-8ac6-69f5ebdb21e0)
+
+![1683542446572](https://github.com/user-attachments/assets/3c64215e-b7cb-46a3-b05b-acf572c2210a)
+
 
 # Exploring Layoffs Data (2020-2023) with MySQL
 
