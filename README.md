@@ -48,7 +48,7 @@ Check out the `Exploratory Data Analysis Layoffs - Project.sql` file to see the 
 
 ## Dataset
 
-The dataset used for this project covers layoffs across multiple industries and countries from 2020 to 2023. Feel free to take a look at the `https://github.com/rawansheriff/Layoffs--EDA-Exploratory-Data-Analysis-Portfolio-Project-/blob/main/layoffs.csv` file to see the raw data that powered these insights.
+The dataset used for this project covers layoffs across multiple industries and countries from 2020 to 2023. Feel free to take a look at the `layoffs.csv` file to see the raw data that powered these insights.
 
 ## What’s Next?
 
@@ -62,10 +62,8 @@ Thank you for checking out my project. If you have any feedback or suggestions, 
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://www.github.com)
+- [LinkedIn](https://www.linkedin.com/in/rawansherif/)
 
----
 
-**Best of luck** with your own data adventures, and happy coding! 😄
+
 
